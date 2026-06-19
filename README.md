@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi, I'm Felix
+
+💻 In love with code, curious about AI.
+
+🌱 Learning by building, and writing down what I figure out.
+
+🛠️ Mostly AI and backend, sometimes security.
+
 
 <!--
 **xqs-xqs/xqs-xqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
